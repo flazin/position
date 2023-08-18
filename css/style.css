@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@100;200;300;400;500;600;800;900&display=swap");
+body {
+  background-color: rgb(60, 60, 60);
+  display: flex;
+  flex-direction: column;
+  scroll-behavior: smooth;
+  height: 100%;
+  font-family: "Tajawal", sans-serif;
+}
+h1 {
+  text-align: center;
+  font-size: 35px;
+}
+font {
+  color: rgb(92, 92, 92);
+  font-size: 7px;
+}
